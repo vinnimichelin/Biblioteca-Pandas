@@ -1,7 +1,6 @@
 # Biblioteca-Pandas
 
-# O dataset de varejo que temos em mãoes é composto por informações de vendas de uma loja virtual que atua em todo território nacional, vendendo produtos de diferentes
-departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
+# O dataset de varejo que temos em mãos é composto por informações de vendas de uma loja virtual que atua em todo território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
 
 Premissas de negócio:
 Ao analisar os dados, é importante ter em mente que existem algumas premissas de negócio que devem ser consideradas. A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações de UF.
