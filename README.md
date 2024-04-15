@@ -1,4 +1,4 @@
-# Biblioteca-Pandas
+# Biblioteca Pandas - Dataset de Varejo
 
 #Introdução:
 
